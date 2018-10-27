@@ -1,1 +1,2 @@
-# -Challenge-SQLite
+# SQLiteChallenge
+#Challenge SQLite
